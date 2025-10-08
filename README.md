@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fear</h1>
 <h3 align="center">A student from Software Engineer, College of Art, Media and Technology, Chiang Mai University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chawanakorns" alt="chawanakorns" /></a> </p>
-
 - 🔭 I’m currently working on [InTra: Insight Travelling Planner Application](https://github.com/chawanakorns/InTra_Backend)
 
 - 🌱 I’m currently learning **Python and Spark**
